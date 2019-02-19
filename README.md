@@ -1,3 +1,5 @@
+# NOTE: STOP USING THIS IN PUBLIB WEBSITE WHEN (https://github.com/joshwnj/react-visibility-sensor/pull/143)[https://github.com/joshwnj/react-visibility-sensor/pull/143] IS MERGED!
+
 # React Visibility Sensor
 
 [![Build Status](https://secure.travis-ci.org/joshwnj/react-visibility-sensor.png)](http://travis-ci.org/joshwnj/react-visibility-sensor)
