@@ -1,4 +1,4 @@
-# NOTE: STOP USING THIS IN PUBLIB WEBSITE WHEN (https://github.com/joshwnj/react-visibility-sensor/pull/143)[https://github.com/joshwnj/react-visibility-sensor/pull/143] IS MERGED!
+# NOTE: STOP USING THIS IN PUBLIB WEBSITE WHEN https://github.com/joshwnj/react-visibility-sensor/pull/143 IS MERGED!
 
 # React Visibility Sensor
 
